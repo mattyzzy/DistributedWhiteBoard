@@ -21,6 +21,3 @@ is the shared white board for the manager with all the privileges.
 is the Client who wants to join the chat room and share the white board with limited privileges.
 
 Please be sure to run the .jar files in the order above.
-
-This project is a team-based project including Kun Huang, Yichuan Deng, Liang Zhang and I.
-
